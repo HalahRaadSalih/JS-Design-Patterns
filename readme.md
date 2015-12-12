@@ -18,6 +18,7 @@
  	- Protoype.
  	- Singleton.
  	- Builder.
+ 	
  - **Structural Design Patterns** : they are concerned about the composition of a specific object within a system and how changing that object would effects other objects/units in the system. Examples:
 
  	- Decorator.
@@ -25,3 +26,11 @@
  	- Flyweight,
  	- Adapter.
  	- Proxy.
+
+ - **Behavioral Design Patterns** : 	they're concenred with the communination between objects. Examples:
+ 
+ 	- Iterator.
+ 	- Mediator.
+ 	- Observer.
+ 	- Visitor.
+ 	
