@@ -9,9 +9,7 @@
  
  There are three types of design patterns.
  	
- - **Creational Design Patterns**: refer to creating objects. 
-
-Examples:
+ - **Creational Design Patterns**: refer to creating objects. Examples:
  
  	- Consructor.
  	- Factory.
@@ -20,9 +18,7 @@ Examples:
  	- Singleton.
  	- Builder.
  	
- - **Structural Design Patterns**: are concerned with the composition of a specific object within a system and how changing that object would effect other objects/units in the system. 
-
-Examples:
+ - **Structural Design Patterns**: are concerned with the composition of a specific object within a system and how changing that object would effect other objects/units in the system. Examples:
 
  	- Decorator.
  	- Facade.
@@ -30,10 +26,7 @@ Examples:
  	- Adapter.
  	- Proxy.
 
- - **Behavioral Design Patterns**: are concenred with the communination between objects. 
- 
- 
-Examples:
+ - **Behavioral Design Patterns**: are concenred with the communination between objects. Examples:
  
  	- Iterator.
  	- Mediator.
