@@ -18,4 +18,10 @@
  	- Protoype.
  	- Singleton.
  	- Builder.
- 
+ - **Structural Design Patterns** : they are concerned about the composition of a specific object within a system and how changing that object would effects other objects/units in the system. Examples:
+
+ 	- Decorator.
+ 	- Facade.
+ 	- Flyweight,
+ 	- Adapter.
+ 	- Proxy.
