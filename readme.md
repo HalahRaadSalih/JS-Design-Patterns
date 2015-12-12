@@ -2,7 +2,7 @@
 
  This repo is about javascript design patterns, their implementations and applications. 
  
- - The inforamtion used here is based on the following book: [Javascript Design Patterns by Addy Osmani] (git@github.com:HalahRaadSalih/JS-Design-Patterns.git).
+ - The inforamtion used here is based on the following book: [Javascript Design Patterns by Addy Osmani] (http://addyosmani.com/resources/essentialjsdesignpatterns/book/).
  - Anything here is my understanding of the design patterns. 
  
  
