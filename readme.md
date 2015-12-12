@@ -10,5 +10,12 @@
  
  There is three types of design patterns.
  	
- - Creational design patterns.
- - 
+ - **Creational design patterns** : These are concerned with creating objects. Some examples of creational design patterns:
+ 
+ 	- Consructor.
+ 	- Factory.
+ 	- Abstract.
+ 	- Protoype.
+ 	- Singleton.
+ 	- Builder.
+ 
